@@ -1,4 +1,3 @@
-// W// Create an array of products
 let products = ["Laptop", "Phone", "Headphones", "Monitor"];
 
 // Function to log the first product
